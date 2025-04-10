@@ -1,2 +1,25 @@
-#🌸 Floristería "Jardín Encantado"
-Este es un proyecto de una tienda de flores desarrollada en HTML, CSS y JavaScript con estilo bohemio y uso de Bootstrap. Ofrece una interfaz visual con productos categorizados, carrito de compras y simulación de pago.
+# 🌸 Floristería Jardín Encantado
+
+Tienda web de flores con diseño bohemio, construida en HTML. Permite explorar productos, agregarlos al carrito y simular un pago.
+
+---
+## 📁 Estructura del Proyecto
+
+Asegúrate de tener esta estructura de carpetas:
+
+JardinEncantado/ 
+
+├── index.html 
+
+├── README.md 
+
+└── img/  
+
+    ├── Rosas.jpeg  
+    ├── ramo-primavera.jpg  
+    ├── centro-vintage.jpg   
+    ├── centro-elegante.jpg    
+    ├── guirnalda.jpg     
+    └── arreglo-colgante.jpg
+
+
