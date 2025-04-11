@@ -8,7 +8,6 @@ Tienda web de flores con diseño bohemio, construida en HTML. Permite explorar p
 Asegúrate de tener esta estructura de carpetas:
 
 JardinEncantado/ 
-
 ├── index.html 
 
 ├── README.md 
@@ -16,11 +15,11 @@ JardinEncantado/
 └── img/  
 
     ├── Rosas.jpeg  
-    ├── ramo-primavera.jpg  
-    ├── centro-vintage.jpg   
-    ├── centro-elegante.jpg    
-    ├── guirnalda.jpg     
-    └── arreglo-colgante.jpg
+    ├── Primavera.jpg 
+    ├── Vintage.jpeg 
+    ├── Elegante.jpeg 
+    ├── Puerta.jpg   
+    └── Arreglo.jpg
 
 ## Uso
 
