@@ -26,3 +26,7 @@ JardinEncantado/
 
 Para entrar a la pagina a traves de GitHub Page use el siguiente link: 
 https://pvblitooo.github.io/Solemne1/
+
+## Creditos
+
+Gracias a los integrantes Pablo Morales y Benjamín Senler que realizaron este trabajo con exito.
