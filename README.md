@@ -25,3 +25,4 @@ JardinEncantado/
 ## Uso
 
 Para entrar a la pagina a traves de GitHub Page use el siguiente link: 
+https://pvblitooo.github.io/Solemne1/
